@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">app4geo</string>
+    <string name="title_activity_main">app4geo</string>
+    <string name="package_name">br.edu.ifrn.app4geo</string>
+    <string name="custom_url_scheme">br.edu.ifrn.app4geo</string>
+</resources>
